@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "poetic-dreamer-294312",
+  "private_key_id": "cdc3dcfcaaf2fad504d24a0cfacdb5297de70411",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCgZiZQ5fYG7Vth\ndXIBIjXYA5zmqrA3AXEqX+sR61ulbhXhF05aYhn6HJ7DMAgYIRKztMIFx5KNrrSO\nwS9NYfpmRwYwkTLPeE7x/qaVaWOiJYPbiCXavaQ2E7z3Oy+PkGIGHs8MfV8VXaUE\nKw0TP5dxA/U90JROGARvtLUqk7iS3BDlsvrvjEoSBwkSLvXDiBjQhXjmrKYub1Ij\nfDsEjlEJR8z5D+6IUpMrvlndHHSXY/Qq3LnNqrOdf4yHaJW8ijg18MrTfs3+K6dO\n/3dcweztbl27tlSv5w0W2CNxSXY4VwZq3Hj6/gLloP7SO2tMyG3+R93cM58yfHTb\nuj0J/TeRAgMBAAECggEAImZN9N8gwNMSXEgzG0WiPRHnSjwUnzNeuQsJr9XlWYkO\nxa+5JN6xugd90BgiwEQFjgdn7hPjXSH5BL2vPp4S9PDqBav6NO8VJUarJNONo+Z+\nTSx5i9xMlbFtfytRE63QLAZa+s9/fyZOf+KYwwZKHRmPdMKhL89sUiW0De3Q8aPM\nMMsOWe362IlSfYQJ5t/a9GWypZJfG6IIX1N0kPOXCZL8RlPV6S4GmtgiXxIYkZui\nFb/J38E32k+vNEZLzMl1OjCMjfn84Q+5BAOw2GW7CkevZz35sSlSNvh0dh+gB7Sy\nrpAp8bVQyqXoXIvxWmiJDDMzaEX+ZvJV2Ju+HEOszQKBgQDU5QOifIA1zXVnsPaF\nVDRmdlWUYkFmims1cNR/OKYAMPzGHx3/wUJ3YrnQbbEWa2d87xJGGi/ALTWNdC8b\nWRUVYTa14+rBcEX3H054WLbiecelkUqX/8f1HYYpyayWMNs+fDikqXZErUpmfUpf\n5CfFgAtyghi6TcgIC5zevCh2TQKBgQDA4CC12HzXLtKy5l4ciNABMgSroED/ks0q\nWN+NRV4++7WfFgMj9Qf/ibYQLELTbJnEGkZuaMB1IAnIgdd4/l7iD1RUjmp0sOSr\n4QNSGLplSdwsdTMwWQ8gfh+QqzQyiVNnKEahCQL90/egwIHHL9tpiYmoX5NX84Wf\nsulp+p2wVQKBgFtFp+5ElC782+XNn5L/y8tV1lDcYw+ULmxl6CR24+xXFDfYZWMd\ntuI6KFGshWyINYEBegMl/OzWNQxlEEEYSwq0d+E5So8OFGDjQiAkYJvt++MGzEUo\nOtDijH9j4CMv5P8AAMTPhk3hQXF5K6a6yTZKNB4umm1dJXIVkHaJkotNAoGAMOyp\nX3c6s5q894RX+wT5PlRhuuc7lZi3UjaY/kzKS0+uElyTD1voW3mjJRcVHGw/1O6V\nTwxjRVKLKMFG1vovN0iMK6a0ekUkvDSnkvuSzH6fyucvxOPSYnubpibHZspOzav5\nvn96sshB2BT81nndPjgVIxCbX4P2MTxA2REpTsECgYEAhIl1MqSQDn3bdXiQMuGV\nx1UZ/ofg7xJYsShLRcf8s98pWiucu+fHT51FbZxqTYk8jyhHIswb2Ciivx98I4vJ\nDAhbZTonh1PccCEgINc9aNZJrqvJXrlzvxU0vUXqqIpqiNcEYvZOuxF3XKBJQeeT\nBliAxtXqSBwSrEGEnidTZ6o=\n-----END PRIVATE KEY-----\n",
+  "client_email": "flutter-dialogflow@poetic-dreamer-294312.iam.gserviceaccount.com",
+  "client_id": "115723913124100655287",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/flutter-dialogflow%40poetic-dreamer-294312.iam.gserviceaccount.com"
+}
